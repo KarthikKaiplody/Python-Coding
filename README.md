@@ -8,3 +8,5 @@ Tip:
     isort file_to_be_changed.py
 Working on pep8 standards
 Start learning about Spark
+
+30 Days of NLP (Blogs)
