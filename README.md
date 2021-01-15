@@ -3,3 +3,4 @@
 - Repository consiting of all the excersices 
 - Daily coding questions
 - New ideas
+- Blogs
