@@ -4,3 +4,4 @@
 - Daily coding questions
 - New ideas
 - Blogs
+- NLP
