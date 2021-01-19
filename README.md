@@ -5,3 +5,4 @@
 - New ideas
 - Blogs
 - NLP
+- Computer Vision
