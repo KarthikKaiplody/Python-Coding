@@ -3,5 +3,3 @@
 - Repository consiting of all the excersices 
 - Daily coding questions
 - Interview practice
-- Python concepts
-- System Design
