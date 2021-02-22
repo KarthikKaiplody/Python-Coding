@@ -4,3 +4,5 @@
 - Daily coding questions
 - Interview practice
 - Clean code python book
+- Oops
+- Decorators & Iterators
