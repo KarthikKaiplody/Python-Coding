@@ -8,3 +8,4 @@
 - Decorators & Iterators
 - MultiThreading
 - Inheritance
+- Classes
