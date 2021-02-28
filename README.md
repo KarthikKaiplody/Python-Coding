@@ -9,3 +9,4 @@
 - MultiThreading
 - Inheritance
 - Classes
+- Numpy
