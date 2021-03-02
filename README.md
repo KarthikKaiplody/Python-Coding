@@ -10,3 +10,5 @@
 - Inheritance
 - Classes
 - Numpy
+- Coding jargons
+- 
