@@ -11,4 +11,3 @@
 - Classes
 - Numpy
 - Coding jargons
-- 
