@@ -12,3 +12,4 @@
 - Numpy
 - Coding jargons
 - Hackathons
+- Tips
