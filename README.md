@@ -13,3 +13,4 @@
 - Coding jargons
 - Hackathons
 - Tips
+- Python pro book
