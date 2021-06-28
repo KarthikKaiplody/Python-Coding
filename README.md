@@ -6,6 +6,7 @@
 - Clean code python book
 - Oops
 - Decorators & Iterators
+- Generators
 - MultiThreading
 - Inheritance
 - Classes
