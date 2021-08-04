@@ -1,5 +1,5 @@
 # Python-Coding
--------------------------------------------
+
 - All about python coding and best practices.
 - Repository consiting of all the excersices 
 - Daily coding questions
@@ -12,5 +12,4 @@
 - Inheritance
 - Classes
 - Numpy
-- Coding jargons
-------------------------------------------
+
